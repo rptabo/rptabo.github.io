@@ -2,7 +2,6 @@
 layout: post
 title: "Poem: The Ostensible Behemoth"
 date: 2020-08-30
-categories: posts
 ---
 
 # Background
