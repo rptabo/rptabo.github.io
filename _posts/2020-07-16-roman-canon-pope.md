@@ -4,6 +4,6 @@ title: "Roman Canon Pope"
 date: 2020-07-16
 ---
 
-Pope St. John Paul II had such success, I'm looking forward to other combinations.
+Pope St. John Paul II had such success, I'm looking forward to other combinations from the Roman Canon.
 
 How about Pope St. Cosmas Damian IV?
