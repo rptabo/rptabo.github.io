@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Planned Parenthood"
+title: "Letter to Planned Parenthood"
 date: 2020-07-18
 ---
 
