@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kipling's If--"
+title: "Kipling's If—"
 date: 2020-08-30
 ---
 
