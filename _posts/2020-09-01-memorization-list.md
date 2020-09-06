@@ -2,9 +2,10 @@
 layout: post
 title: "Memorization List"
 date: 2020-09-01
+updated: 2020-09-02
 ---
 
-_Last Updated: 2020-09-02_
+_Last Updated: {{ page.updated }}_
 
 ## Memorized
 1. First Fig (poem by Edna St. Vincent Millay)
