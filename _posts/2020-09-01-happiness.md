@@ -2,10 +2,8 @@
 layout: post
 title: "Happiness"
 date: 2020-09-01
-updated: 2020-09-06
+updated: 2020-09-07
 ---
-
-_Last Updated: {{ page.updated }}_
 
 [NOTE: This is still very much in draft mode. But because I strive to live by "memento mori" and recognize that at any moment I could die, I am pushing these thoughts before they are completely fleshed out.]
 
@@ -23,6 +21,8 @@ I've read a lot on the same topic recently:
 - Songs of Innocence and of Experience
 
 Summary: Be present in the current now. Delight in everything it brings. God is infinitely wiser than you and it's all for your good.
+
+The key to happiness: Use the current moment to serve. You are happiest when not focused on yourself.
 
 Don't be a hedonist; do your duty in the moment (which is sometimes to plan).
 

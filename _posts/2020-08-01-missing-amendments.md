@@ -2,6 +2,7 @@
 layout: post
 title: "Missing Amendments"
 date: 2020-08-01
+updated: 2020-08-30
 ---
 
 Our forefathers did a pretty good job but they forgot two key amendments:
@@ -10,6 +11,4 @@ Our forefathers did a pretty good job but they forgot two key amendments:
 
 2. There shall be a cap on the number of laws.
 
-P.S. Read [Defending the Free Market][defending-book].
-
-[defending-book]: https://amzn.com/1596983256
+P.S. Read [Defending the Free Market](https://amzn.com/1596983256).

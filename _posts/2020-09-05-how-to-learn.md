@@ -5,8 +5,6 @@ date: 2020-09-05
 updated: 2020-09-06
 ---
 
-_Last Updated: {{ page.updated }}_
-
 1. Get an overview: learn what you'll need to learn
 1. Grasp the very basics and high-level components
 1. Find a project to use your learnings

@@ -2,6 +2,7 @@
 layout: post
 title: "Peace & Joy"
 date: 2015-05-08
+updated: 2020-08-31
 ---
 
 I think people put too much emphasis on "happiness" as a goal. Happiness is fleeting and difficult to identify in the moment.

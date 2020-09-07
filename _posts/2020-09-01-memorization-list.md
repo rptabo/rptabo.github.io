@@ -5,8 +5,6 @@ date: 2020-09-01
 updated: 2020-09-02
 ---
 
-_Last Updated: {{ page.updated }}_
-
 ## Memorized
 1. First Fig (poem by Edna St. Vincent Millay)
 1. The Man in the Arena (excerpt from Theodore Roosevelt's "Citizenship in a Republic" speech)
