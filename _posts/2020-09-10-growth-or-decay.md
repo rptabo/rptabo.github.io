@@ -12,7 +12,7 @@ There is no zero but there are such values as -2 or +4. And once you recognize t
 
 So you want to publish a book. Did you write today? (This is a yes or no answer.) You are either that much closer or that much further behind.
 
-Name anything and the same concept applies: Learning a language, becoming a better cook, switching careers, achieving more happiness in life, whatever. I defy you to name something that violates this law. Just as there are laws of physics, there are laws of life and this is one of them.
+Name anything and the same concept applies: Learning a language, growing in holiness, becoming a better cook, switching careers, achieving more happiness in life, whatever. I defy you to name something that violates this law. Just as there are laws of physics, there are laws of life and this is one of them.
 
 Even if you can't do as much as you want, do something. This at least puts you in the positive as opposed to the negative column. (There is no third column.)
 
@@ -21,5 +21,7 @@ As James Clear [states][jc]:
 >It's better to do less than you hoped than nothing at all. No zero days.
 
 And I'd like to add: because zero days are impossible. You either moved forward or you moved back. You can't skip turns in the game of life.
+
+But it's also important to point out that growth requires rest. Just like muscles will stunt if not given breaks (for they are only broken down and have no time to repair themselves), so it is with any kind of growth. The idea applies to many areas, but on "rest days" you actually rack up a negative balance by working out because you put yourself behind. This fact, and that of breaking down to build up stronger, are two paradoxes: to grow, there needs to be some decay.
 
 [jc]: https://jamesclear.com/3-2-1/august-27-2020
