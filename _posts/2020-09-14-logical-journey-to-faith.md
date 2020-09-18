@@ -21,10 +21,16 @@ Pascal's Wager.
 
 ## Christianity
 
-Let us first evaluate those who claimed to be God. All others were prophets.
+Let us first evaluate those who claimed to be God. All others were prophets. We can take a look at them only after eliminating this first round.
 
 Lord, Liar, or Lunatic.
+
+Scriptural preservation. St. Paul. Other common arguments.
+
+The amazing fulfillment of the Jewish tradition.
 
 ## Catholicism
 
 "Upon this rock I will build my Church."
+
+Terrible popes yet the Church was preserved.
