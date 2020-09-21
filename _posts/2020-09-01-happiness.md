@@ -2,7 +2,7 @@
 layout: post
 title: "Happiness"
 date: 2020-09-01
-updated: 2020-09-20
+updated: 2020-09-21
 ---
 
 [NOTE: This is still very much in draft mode. But because I strive to live by "memento mori" and recognize that at any moment I could die, I am pushing these thoughts before they are completely fleshed out.]
@@ -38,3 +38,7 @@ But people sin: imagine these as an artist's accident where paint spills. But Go
 Some seek death and deny eternity because they just want it all to stop. No more demands, no more suffering, just the cessation of their existence. Really, they want peace and the stop of entropy (which is essentially the same). For time is nothing more than constant change and that can become tiresome.
 
 Every analogy is imperfect, especially when dealing with a Mystery so outside of our comprehension as Time and Eternity. We just do not have the capacity to fully comprehend. It is like my dog, who is very smart. Yet even the smartest dog in the world does not have the capacity to perform differential calculus.
+
+Now, we have been talking about both happiness and time. Yet, I think people put too much emphasis on "happiness" as a goal. Happiness is fleeting and difficult to identify in the moment. A better aim would be peace and joy: these are not just emotions, but states of being that can persist through other emotions. For example, one can be sad, but at peace (notice the phrasing hints at a "state" as well: feelings are fickle, states less so). One can suffer joyfully.
+
+Once again, the focus is on the _state_ not the gradual unfolding or fickleness of change which is the characteristic attribute of time. Peace and joy are also not limited by external factors. Happiness seems to depend on a good job, healthy finances, loving relationships, etc. And people always think they will be happy if they could just get a better job, a little more in their bank account, or get along better with their family. But peace and joy can abide/subsist through all of life's vicissitudes.
