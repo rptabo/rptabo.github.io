@@ -8,6 +8,7 @@ description: >- # ignore newlines until the next property
 
 # Build settings
 theme: "minima"
+google_analytics: "UA-179250436-1"
 plugins:
   - "jekyll-feed"
   - "jekyll-target-blank"
