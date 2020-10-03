@@ -3,6 +3,7 @@ layout: post
 title: "Conspiracy Theory"
 date: 2020-09-22
 published: false
+category: mind
 ---
 
 I'm not normally into conspiracy theories, but sometimes things seem just too obvious. Supposedly the whole Black Lives Matter movement exploded with the death of George Floyd. But it's conspicuous that suddenly all the TV shows coming out recently also focus on it. Bear in mind, it takes time to write, produce, edit, add CGI, market, and release these shows. And also bear in mind that the lockdown shut down production so many of the shows coming out now have been in the can since the beginning of the year at the latest. With all of that information I find it hard to believe that this wasn't planned for right before an election.

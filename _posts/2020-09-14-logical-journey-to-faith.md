@@ -3,6 +3,7 @@ layout: post
 title: "Logical Journey to Faith"
 date: 2020-09-14
 published: false
+category: spirit
 ---
 
 ## Introduction

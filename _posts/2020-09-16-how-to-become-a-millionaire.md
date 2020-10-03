@@ -2,6 +2,7 @@
 layout: post
 title: "How to Become a Millionaire"
 date: 2020-09-16
+category: mind
 ---
 
 I can think of at least two ways to become a millionaire:

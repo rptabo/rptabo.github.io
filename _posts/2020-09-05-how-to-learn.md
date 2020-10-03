@@ -3,6 +3,7 @@ layout: post
 title: "How to Learn"
 date: 2020-09-05
 updated: 2020-09-06
+category: mind
 ---
 
 1. Get an overview: learn what you'll need to learn

@@ -3,6 +3,7 @@ layout: post
 title: "Memorization List"
 date: 2020-09-01
 updated: 2020-09-21
+category: mind
 ---
 
 ## Memorized

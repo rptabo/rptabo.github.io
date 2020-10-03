@@ -3,6 +3,7 @@ layout: post
 title: "Growth or Decay"
 date: 2020-09-10
 updated: 2020-09-11
+category: spirit
 ---
 
 For everything in life, there is either growth or decay. The "steady state" is an illusion. When you look back on any time period, a certain aspect of your life either improved or regressed. A relationship either got stronger or withered. A facet of your intelligence or physical makeup either weakened or strengthened.

@@ -3,6 +3,7 @@ layout: post
 title: "Geography"
 date: 2020-09-13
 published: false
+category: mind
 ---
 
 In America, general attitude depends on geography. The more chill to more high-strung goes from the south west to the northeast. Southern California is pretty chill but also productive. New York is very uptight. San Francisco is a little north of SoCal and they are also a little more uptight. DC is south of New York so it's slightly better but I've also never seen so many people work harder to accomplish less. The Midwest is very hardworking so somewhat in-between. Hawaii is almost too chill that they don't really accomplish anything.

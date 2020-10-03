@@ -2,6 +2,7 @@
 layout: post
 title: "Kipling's If—"
 date: 2020-08-30
+category: mind
 ---
 
 I posted the following in my team's #random channel in Slack yesterday:

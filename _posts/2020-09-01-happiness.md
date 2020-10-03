@@ -3,6 +3,7 @@ layout: post
 title: "Happiness"
 date: 2020-09-01
 updated: 2020-09-21
+category: spirit
 ---
 
 [NOTE: This is still very much in draft mode. But because I strive to live by "memento mori" and recognize that at any moment I could die, I am pushing these thoughts before they are completely fleshed out.]

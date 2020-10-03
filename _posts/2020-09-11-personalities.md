@@ -2,6 +2,7 @@
 layout: post
 title: "Personalities"
 date: 2020-09-11
+category: spirit
 ---
 
 I've worked in three very different industries: entertainment, tech, and politics. I have spent my professional career in either LA and DC, and although they have very different environments, I've encountered many of the same personalities, just with a different application.

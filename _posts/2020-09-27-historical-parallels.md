@@ -3,6 +3,7 @@ layout: post
 title: "Historical Parallels"
 date: 2020-09-27
 published: false
+category: mind
 ---
 
 Looking at the current climate in America, I see three main historical parallels:

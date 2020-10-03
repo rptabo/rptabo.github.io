@@ -3,6 +3,7 @@ layout: post
 title: "Missing Amendments"
 date: 2020-08-01
 updated: 2020-08-30
+category: mind
 ---
 
 Our forefathers did a pretty good job but they forgot two key amendments:

@@ -3,6 +3,7 @@ layout: post
 title: "Advice to My Interns"
 date: 2020-07-18
 updated: 2020-09-15
+category: mind
 ---
 
 Below are a couple of tasks I assigned to my interns when they first started this summer.

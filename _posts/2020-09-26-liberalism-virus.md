@@ -2,6 +2,7 @@
 layout: post
 title: "The Virus of Liberalism"
 date: 2020-09-26
+category: mind
 ---
 
 I view Liberalism as a virus. Much like a biological one, the virus of Liberalism infects an area until it is uninhabitable and then moves on, continuing the process until there is nothing left to destroy. Which is kind of ironic since one of many Liberals' big initiatives is to push that climate change needs to be stopped for doing the same thing to our planet.

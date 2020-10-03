@@ -4,6 +4,7 @@ title: "Daily Dozen"
 date: 2020-09-30
 updated: 2020-10-01
 published: false
+category: [ mind, body, spirit ]
 ---
 
 # Spirit
