@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "How to Become a Millionaire"
+title: "How to Make a Million Dollars"
 date: 2020-09-16
+updated: 2020-10-04
 category: mind
 ---
 
-I can think of at least two ways to become a millionaire:
+There are at least two ways to make a million dollars:
 
 1. Have 1 person give you $1,000,000
 2. Have 1,000,000 people give you $1
