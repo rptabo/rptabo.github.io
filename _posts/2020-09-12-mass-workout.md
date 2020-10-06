@@ -50,7 +50,7 @@ Then you go to your pew and genuflect. Kneel and pray before Mass. Sit back in t
 # Revisiting for a "walk" through the Mass
 We are all called to a royal priesthood so I am also incorporating what the priest does in the liturgy during our workout.
 
-"A Bodily Walk Through the Mass" (as opposed to a Biblical Walk)
+"A Bodily Walk Through the Mass" (as opposed to a Biblical Walk by Tedward)
 
 # Key
 - Genuflect: lunges
@@ -59,6 +59,8 @@ We are all called to a royal priesthood so I am also incorporating what the prie
 - Bow: good mornings
 - Sign of the cross: shoulder press/pullup (work with me here)
 - Burpees?
+- Planks?
+- Pullups?
 - Twists: Seated Russian Twists
 - 10r = 10 reps; 10s = 10 seconds (for holds)
 
@@ -73,3 +75,8 @@ This is an AMRAP (As Many Rounds As Possible) program, so complete the following
 - 10r shoulder press
 - 2r pullup
 - 5 stairs
+
+# A Note on Nutrition
+In reality, nutrition contributes more to body composition than exercise does. Luckily, the wisdom of the Church has insight there, too! The Mass truly is the perfect model for health and fitness since it incorporates both nutrition and exercise. Long before "intermittent fasting" became a thing, Catholics were practicing it for millenia.
+
+Also, never has "you are what you eat" been more true than in the Eucharist!
