@@ -36,6 +36,8 @@ However, God does act within time. His Will is ordained daily and there have bee
 
 But people sin: imagine these as an artist's accident where paint spills. But God can use this accident to make something even more beautiful than had that not happened. He can work around it, go over the top, even use a sharp knife to scrape the paint from the canvas so that in the final viewing it is as if it never happened.
 
+Traversing the time and space continuum may seem like a far-fetched concept relegated to the sci-fi genre but we actually do so at every Mass with the Paschal Mystery. Who would think to let their mind wander when before a time machine! And yet that's often what I do before an even more awe-inspiring event.
+
 Some seek death and deny eternity because they just want it all to stop. No more demands, no more suffering, just the cessation of their existence. Really, they want peace and the stop of entropy (which is essentially the same). For time is nothing more than constant change and that can become tiresome.
 
 Every analogy is imperfect, especially when dealing with a Mystery so outside of our comprehension as Time and Eternity. We just do not have the capacity to fully comprehend. It is like my dog, who is very smart. Yet even the smartest dog in the world does not have the capacity to perform differential calculus.
