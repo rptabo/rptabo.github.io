@@ -2,10 +2,14 @@
 layout: post
 title: "Daily Dozen"
 date: 2020-09-30
-updated: 2020-10-03
+updated: 2020-10-10
 published: false
 categories: mind body spirit
 ---
+
+As of October 7, 2020 I had a five week streak for all Daily Dozen:
+
+![daily-dozen](/assets/daily-dozen.png)
 
 ## Current
 
