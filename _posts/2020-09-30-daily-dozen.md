@@ -2,12 +2,12 @@
 layout: post
 title: "Daily Dozen"
 date: 2020-09-30
-updated: 2020-10-10
+updated: 2020-10-11
 published: false
 categories: mind body spirit
 ---
 
-As of October 7, 2020 I had a five week streak for all Daily Dozen:
+As of October 7, 2020 I had a over a five week streak for all Daily Dozen:
 
 ![daily-dozen](/assets/daily-dozen.png)
 
@@ -33,25 +33,30 @@ As of October 7, 2020 I had a five week streak for all Daily Dozen:
 
 ## Past
 
+# Spirit
 - Office of Readings
-- Spiritual Reading
 - Morning Prayer
 - Daytime Prayer
-- Violin
 - Evening Prayer
-- Floss
 - Night Prayer
-- Meditation
-- Brush teeth in the morning
-- Get sunshine
-- Duolingo German
-- Language
-- Cold shower
+- Spiritual Reading
 - Station of the Cross
 - Chaplet of Divine Mercy
 - Divine Mercy Devotions
+
+# Mind
+- Violin
+- Meditation
+- Duolingo German
+- Language
 - Finances
+
+# Body
+- Brush teeth in the morning
 - Brush teeth at night
+- Floss
+- Get sunshine
+- Cold shower
 - Eat Primal
 
 ## Categorized Posts
