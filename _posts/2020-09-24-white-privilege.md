@@ -2,7 +2,6 @@
 layout: post
 title: "White Privilege"
 date: 2020-09-24
-published: false
 category: spirit
 ---
 

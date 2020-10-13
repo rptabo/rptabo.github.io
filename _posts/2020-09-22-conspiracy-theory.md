@@ -2,7 +2,6 @@
 layout: post
 title: "Conspiracy Theory"
 date: 2020-09-22
-published: false
 category: mind
 ---
 

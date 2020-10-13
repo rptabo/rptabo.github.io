@@ -2,7 +2,6 @@
 layout: post
 title: "How to Achieve"
 date: 2020-10-07
-published: false
 category:  mind
 ---
 

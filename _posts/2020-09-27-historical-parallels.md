@@ -2,7 +2,6 @@
 layout: post
 title: "Historical Parallels"
 date: 2020-09-27
-published: false
 category: mind
 ---
 

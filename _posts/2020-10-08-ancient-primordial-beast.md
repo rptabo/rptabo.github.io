@@ -2,7 +2,6 @@
 layout: post
 title: "Ancient Primordial Beast"
 date: 2020-10-08
-published: false
 category: mind
 ---
 
