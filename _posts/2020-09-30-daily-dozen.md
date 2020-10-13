@@ -2,8 +2,7 @@
 layout: post
 title: "Daily Dozen"
 date: 2020-09-30
-updated: 2020-10-11
-published: false
+updated: 2020-10-12
 categories: mind body spirit
 ---
 
@@ -65,7 +64,9 @@ As of October 7, 2020 I had a over a five week streak for all Daily Dozen:
   <h3>{{ tag[0] }}</h3>
   <ul>
     {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% if post.id != page.id %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
     {% endfor %}
   </ul>
 {% endfor %}
