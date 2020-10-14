@@ -2,7 +2,7 @@
 layout: post
 title: "White Privilege"
 date: 2020-09-24
-category: spirit
+category: mind
 ---
 
 There is a lot of talk about "white privilege" these days. But I often wonder: is the current state of the average heterosexual white male---the epitome of "privilege"---really what everyone is looking for? Does everyone want to be strapped with debt, trying to keep up with the Joneses?

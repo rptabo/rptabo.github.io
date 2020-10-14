@@ -2,13 +2,19 @@
 layout: post
 title: "Daily Dozen"
 date: 2020-09-30
-updated: 2020-10-12
+updated: 2020-10-13
 categories: mind body spirit
 ---
+
+I use [Org mode][org] within [Emacs][emacs] and one of the features is [habit tracking][habits]. I haven't always been consistent, but there have been a few times I built up what I call the "Daily Dozen": twelve habits I complete every day that support [growth][growth] in spirit, mind, and body.
 
 As of October 7, 2020 I had a over a five week streak for all Daily Dozen:
 
 ![daily-dozen](/assets/daily-dozen.png)
+
+[The default view only shows those five weeks so I list the actual streak in parentheses next to the habit to further encourage not "breaking the chain" as Jerry Seinfeld made famous.]
+
+Below are some more details on my current and past habits.
 
 ## Current
 
@@ -47,7 +53,7 @@ As of October 7, 2020 I had a over a five week streak for all Daily Dozen:
 - Violin
 - Meditation
 - Duolingo German
-- Language
+- Pimsleur French
 - Finances
 
 # Body
@@ -56,7 +62,7 @@ As of October 7, 2020 I had a over a five week streak for all Daily Dozen:
 - Floss
 - Get sunshine
 - Cold shower
-- Eat Primal
+- Eat "Primal" (Paleo + dairy)
 
 ## Categorized Posts
 
@@ -71,6 +77,10 @@ As of October 7, 2020 I had a over a five week streak for all Daily Dozen:
   </ul>
 {% endfor %}
 
+[org]: https://orgmode.org/
+[emacs]: https://www.gnu.org/software/emacs/
+[habits]: https://orgmode.org/manual/Tracking-your-habits.html
+[growth]: {% post_url 2020-09-10-growth-or-decay %}
 [examen]: {% post_url 2015-04-19-examen %}
 [rosary]: https://amzn.com/1492944750
 [read]: {% post_url 2020-01-01-reading-goal %}
