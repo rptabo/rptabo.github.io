@@ -2,7 +2,6 @@
 layout: post
 title: "Geography"
 date: 2020-09-13
-published: false
 category: mind
 ---
 

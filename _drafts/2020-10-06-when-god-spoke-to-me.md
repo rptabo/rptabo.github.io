@@ -2,7 +2,6 @@
 layout: post
 title: "When God Spoke to Me"
 date: 2020-10-06
-published: false
 category: spirit
 ---
 

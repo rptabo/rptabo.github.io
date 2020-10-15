@@ -2,7 +2,6 @@
 layout: post
 title: "Mass Workout"
 date: 2020-09-12
-published: false
 category: body
 ---
 
