@@ -31,9 +31,23 @@ Listen, nobody _wants_ to be a third wheel, but sometimes it simply can't be avo
 - Ask lots of questions (the deeper & more personal, the better).
 - Try to sit between them so there's less awkwardness
 - Understand that they _want_ to buy you a third ticket, it is just your responsibility to relieve them of the burden of being too forward
+- Delve into the physical aspect of their relationship
+- It is your job to break up any sexual chemistry so they don't embarrass themselves
+
+## Safe Topics
+
+- Their biggest fight
+- Infidelity
+- Finances
+- Religion and politics (especially if they disagree). Even if they agree on most things, try to find the topic or point where there is some contention. (Note that this particular piece of advice is not just limited to romantic relationships when you are serving as a third wheel but is a good topic for any gathering.)
+- The best third wheeler will find the
+
+## Topics to Avoid
 
 # Author profile
-Donald O'Treply---or Don to his friends (which could be you, especially if you are in a relationship)---is a lifetime third-wheeler. Lately he has been trying to break into the fifth wheel game by joining double dates. You may have already received many emails from him but if not, he can be reached at: donotreply@attrishnot.net. [Note that he is unlikely to respond to your missives.] He lives in the United States with his wife and two children.
+Donald O'Treply---or Don to his friends (which could be you, especially if you are in a relationship)---is a lifetime third-wheeler. Lately he has been trying to break into the fifth wheel game by joining double dates. He may have already sent you emails from the many companies and organizations for which works, but if not, he can be reached at: [donotreply@attrishnot.net][email]. [Note that he is unlikely to respond to your missives.] He lives in the United States with his wife and two children.
 
 # Who this post is for
 Much like the warning in prescription medication ads, "pregnant or may be come pregnant"---but for single people. Single people that happen to know someone (or someones) in a relationship. Remember, loved ones die.
+
+[email]: mailto:donotreply@attrishnot.net
