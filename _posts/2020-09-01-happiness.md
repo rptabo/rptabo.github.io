@@ -2,7 +2,7 @@
 layout: post
 title: "Happiness"
 date: 2020-09-01
-updated: 2020-09-21
+updated: 2020-10-26
 category: spirit
 ---
 
@@ -56,3 +56,5 @@ Once again, the focus is on the _state_ not the gradual unfolding or fickleness 
 It also helps to look at what happiness is _not_. Take fear for example. Almost by definition, fear is future-focused. And yet because we know not what the future holds, there is no reason to fear. Many things _might_ happen and in fact, it's true that worse things than we can imagine actually will happen. But our conception of the future is not reality, not the image God holds in his perfect view of simultaneous time. It is at best a very likely approximation of what could happen. C.S. Lewis, in _The Screwtape Letters_ emphasizes that only the present contains reality: the past is merely our biased, inaccurate memory (often viewed through rose-colored glasses) that is no longer and the future holds infinite possibilities.
 
 So fear, anxiety, worry, and anything else looking negatively ahead are enemies of happiness, which lives in the now. But what about Hope? It is a Theological Virtue after all. Doesn't that also look to the future? I would argue that it is still grounded in the present. Hope is how we must live our lives _now_. It is faithful trust, acted out in the present moment, that no matter what happens (for we cannot know), it will be for the best since God is in control and He is all Goodness. Fear projects bad things into the future, separating oneself from the current moment in an out-of-body-like experience. Hope is confidently and solidly rooted in the present moment, trusting that whatever comes next is no cause for worry or anxiety.
+
+Happiness is also not to be confused with pleasure. Happiness cannot be altered by external factors.

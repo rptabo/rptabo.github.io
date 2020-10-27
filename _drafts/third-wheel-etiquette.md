@@ -27,8 +27,7 @@ Listen, nobody _wants_ to be a third wheel, but sometimes it simply can't be avo
 
 ## The Rules
 
-- Ask lots of questions. Dig deep. Make it personal.
-- Ask lots of questions (the deeper & more personal, the better).
+- Ask lots of questions. Dig deep. Make it personal. **OR:** Ask lots of questions (the deeper & more personal, the better).
 - Try to sit between them so there's less awkwardness
 - Understand that they _want_ to buy you a third ticket, it is just your responsibility to relieve them of the burden of being too forward
 - Delve into the physical aspect of their relationship
@@ -39,8 +38,7 @@ Listen, nobody _wants_ to be a third wheel, but sometimes it simply can't be avo
 - Their biggest fight
 - Infidelity
 - Finances
-- Religion and politics (especially if they disagree). Even if they agree on most things, try to find the topic or point where there is some contention. (Note that this particular piece of advice is not just limited to romantic relationships when you are serving as a third wheel but is a good topic for any gathering.)
-- The best third wheeler will find the
+- Religion and politics (especially if they disagree). Even if they agree on most things, try to find the topic or point where there is some contention so that you can help strengthen the relationship. (Note that this particular piece of advice is not just limited to romantic pairings when you are serving as a third wheel but is a good topic for any gathering.)
 
 ## Topics to Avoid
 
