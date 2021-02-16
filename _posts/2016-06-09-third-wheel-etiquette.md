@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Third Wheel Etiquette"
+date: 2016-06-09
+updated: 2021-02-15
 category: mind
 ---
 
@@ -20,32 +22,30 @@ Finally, "etiquette" requires a bit more etymology and like our subject itself, 
 
 So as you can see, "etiquette" is a truly international word (as hopefully third wheel etiquette becomes universally practiced). Putting these three parts together, we see that "etiquette" literally means "and I a little."
 
-So summing it up, third wheel etiquette is not two, not four, but three circular bored blocks rotating around an axle...including a little bit of you.
+So summing it up, third wheel etiquette is not two, not four, but three circular bored blocks rotating around an axle (including a little bit of you).
 
 ## Introduction
 Listen, nobody _wants_ to be a third wheel, but sometimes it simply can't be avoided. For example, you might be bored and they're doing something fun.
 
 ## The Rules
 
-- Ask lots of questions. Dig deep. Make it personal. **OR:** Ask lots of questions (the deeper & more personal, the better).
-- Try to sit between them so there's less awkwardness
-- Understand that they _want_ to buy you a third ticket, it is just your responsibility to relieve them of the burden of being too forward
-- Delve into the physical aspect of their relationship
-- It is your job to break up any sexual chemistry so they don't embarrass themselves
+- Ask lots of questions. Dig deep. Make it personal.
+- Try to sit between them so there's less awkwardness.
+- Understand that they _want_ to buy you a third ticket, it is just your responsibility to relieve them of the burden of being too forward.
+- It is your job to break up any sexual chemistry so they don't embarrass themselves.
 
 ## Safe Topics
 
 - Their biggest fight
-- Infidelity
 - Finances
 - Religion and politics (especially if they disagree). Even if they agree on most things, try to find the topic or point where there is some contention so that you can help strengthen the relationship. (Note that this particular piece of advice is not just limited to romantic pairings when you are serving as a third wheel but is a good topic for any gathering.)
 
 ## Topics to Avoid
 
-# Author profile
-Donald O'Treply---or Don to his friends (which could be you, especially if you are in a relationship)---is a lifetime third-wheeler. Lately he has been trying to break into the fifth wheel game by joining double dates. He may have already sent you emails from the many companies and organizations for which works, but if not, he can be reached at: [donotreply@attrishnot.net][email]. [Note that he is unlikely to respond to your missives.] He lives in the United States with his wife and two children.
+- The weather
+- Reciprocating any question they might ask you
 
-# Who this post is for
-Much like the warning in prescription medication ads, "pregnant or may be come pregnant"---but for single people. Single people that happen to know someone (or someones) in a relationship. Remember, loved ones die.
+# Author profile
+Donald O'Treply---or Don to his friends (which could be you, especially if you are in a relationship)---is a lifetime third-wheeler. Lately he has been trying to break into the fifth wheel game by joining double dates. He may have already sent you emails from the many companies and organizations for which works, but if not, he can be reached at: [donotreply@attrishnot.net][email]. [Note that he is unlikely to respond to your missives.] He lives in the United States with his wife and four children.
 
 [email]: mailto:donotreply@attrishnot.net
