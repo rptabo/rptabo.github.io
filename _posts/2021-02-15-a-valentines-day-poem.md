@@ -7,9 +7,11 @@ category: mind
 
 Roses are red,<br>
 Violets are blue,<br>
-...Well no, actually: violets are violet; that's why they're called<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "violet"s. And if Roy G. Biv taught us anything about the<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; color spectrum, it's that there is a whole nother color<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (indigo) in between blue and violet so whoever said violets<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; are blue might be borderline colorblind.<br>
+...Well no, actually: violets are violet; that's why<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; they're called "violet"s. And if Roy G. Biv<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; taught us anything about the color<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; spectrum, it's that there is a whole nother<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; color (indigo) in between blue and violet<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; so whoever said violets are blue might be<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; borderline colorblind.<br>
 But hey, I still love you.
