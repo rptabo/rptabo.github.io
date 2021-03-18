@@ -22,7 +22,7 @@ Violets are blue,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; has a nice ring in the poem, we know, "Indigo:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; between blue and violet, in you go"<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; is a famous edict of Roy G. Biv<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; when creating the color spectrum to give.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; when creating the color spectrum by which we live.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; So whoever said violets are blue to match roses red<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; is probably borderline colorblind (aka "eye dead").<br>
 But hey, I still love _you_.
