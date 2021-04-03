@@ -14,18 +14,18 @@ The irony is that happiness cannot traverse time, but it can be transported acro
 | A | 10 | To go look for it elsewhen we know meant
 | B | 10 | Naught; and yet within space it is not bound.
 |   |    |
-| C | 10 | Happiness is unable to sojourn
-| D | 10 | Neither near nor far in present or past.
-| C | 00 |
-| D | 00 |
+| C | 10 | Happiness is unable to traverse
+| D | 10 | Neither near nor far in future or past.
+| C | 10 | Rooted forever right now is precurse
+| D | 09 | The deepest sorrow it will outlast
 |   |    |
 | E | 10 | Go searching not in places wrong for love,
 | F | 10 | Nor in times other seek ye happiness;
 | E | 10 | For much like of olden days from a dove
 | F | 10 | Total bliss unto you may Pappy bless.
 |   |    |
-| G | 05 | These words etched in pen
-| G | 02 | Elsewhen
+| G | 10 | So heed these words that have been etched in pen:
+| G | 10 | Do not go scour for happiness Elsewhen.
 
 Rooted
 
