@@ -17,7 +17,7 @@ The irony is that happiness cannot traverse time, but it can be transported acro
 | C | 10 | Happiness is unable to traverse
 | D | 10 | Neither near nor far in future or past.
 | C | 10 | Rooted forever right now is precurse
-| D | 09 | The deepest sorrow it will outlast
+| D | 10 | For the deepest sorrow it will outlast.
 |   |    |
 | E | 10 | Go searching not in places wrong for love,
 | F | 10 | Nor in times other seek ye happiness;
