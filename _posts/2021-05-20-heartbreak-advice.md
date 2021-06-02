@@ -8,6 +8,8 @@ category: mind
 
 Remember all of your past heartbreaks. Notice how the further back you go, the more hazy are the details. The same will be true for this one. The saying "time heals all wounds" is true, but looking at it this way provides some solid, personal evidence so you can't just dismiss the aphorism as trite.
 
+Also remember the times someone broke your heart and then later came around. Often, you weren't interested in them by the time they came around, so use this as twofold evidence: there's always hope, and you are good at getting over people.
+
 In an attempt to numb the pain in your heart with the aid of your brain, you might be tempted to brainstorm or list all the things you _didn't_ like about the one who hurt you. Don't. First of all, that's just mean. But it's also unhealthy. Simply acknowledge that there are reasons they weren't perfect---since no one is---but you wouldn't have loved them if the "pros" didn't outweigh the "cons". They just weren't the right fit, and as you've always done in the past, the next person you fall for really hard will seem like such a better match.
 
 Use the pain for something productive. Not only is your outlet a great distraction, but deep emotion makes for excellent creative fuel. Taylor Swift writes songs, I write screenplays. As tender as your heart is, it's also the best time to tap into your emotions to create something of true, universal, and impactful beauty. For as much as it feels like you're the only one in the world who is going through this, the reason we can identify with tearjerker songs and movies is because they are shared by all mankind.
