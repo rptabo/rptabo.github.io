@@ -37,7 +37,7 @@ I lift my lamp beside the golden door!"<br>
 
 # DC satire
 **"The Ostensible Behemoth" by Ryan P. O'Connell**<br>
-_Typed in 2020 and dedicated to Kerry Hunt whose conversation in particular inspired the concept_
+_Typed in 2020 and dedicated to my friend Kerry whose conversation in particular inspired the concept_
 
 Unlike patina’d lady lifting flame<br>
 With arm aloft and tablet clutched in hand,<br>

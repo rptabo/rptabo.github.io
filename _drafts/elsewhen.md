@@ -17,7 +17,7 @@ The irony is that happiness cannot traverse time, but it can be transported acro
 | C | 10 | Happiness is unable to traverse
 | D | 10 | Neither near nor far in future or past.
 | C | 10 | Rooted forever right now is precurse
-| D | 10 | For the deepest sorrow it will outlast.
+| D | 10 | Since the deepest sorrow it will outlast.
 |   |    |
 | E | 10 | Go searching not in places wrong for love,
 | F | 10 | Nor in times other seek ye happiness;
@@ -25,7 +25,7 @@ The irony is that happiness cannot traverse time, but it can be transported acro
 | F | 10 | Total bliss unto you may Pappy bless.
 |   |    |
 | G | 10 | So heed these words that have been etched in pen:
-| G | 10 | Do not go scour for happiness Elsewhen.
+| G | 10 | Do not go scour for happiness...Elsewhen.
 
 Rooted
 
