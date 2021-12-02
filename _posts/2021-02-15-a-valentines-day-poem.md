@@ -2,7 +2,7 @@
 layout: post
 title: "A Valentine's Day Poem"
 date: 2021-02-15
-updated: 2021-03-18
+updated: 2021-12-01
 category: mind
 ---
 
@@ -12,7 +12,7 @@ _NOTE: Landscape mode best preserves formatting when viewing on mobile_
 Roses are red,<br>
 Violets are blue,<br>
 <span style="display: inline-block; padding-left: 2.5em; text-indent: -2.5em;">
-...Well no, actually: violets are violet; that's why they're called "violet"s. And if Roy G. Biv taught us anything about the color spectrum, it's that there is a whole nother color (indigo) in between blue and violet so whoever said violets are blue might be borderline colorblind.
+...Well no, actually: violets are violet; that's why they're called "violet"s. And if Roy G. Biv taught us anything about the color spectrum, it's that there is a whole 'nother color (indigo) in between blue and violet so whoever said violets are blue might be borderline colorblind.
 </span><br>
 But hey, I still love you.
 
