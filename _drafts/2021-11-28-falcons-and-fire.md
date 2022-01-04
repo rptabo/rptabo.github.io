@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Relationships as Fire"
+title: "Falcons & Fire"
 date: 2021-11-28
-updated: 2021-12-03
+updated: 2022-01-03
 category: mind
 ---
 
@@ -19,3 +19,7 @@ There are hot coals of passion but there are also warm flames of entrancing beau
 
 The television show _How I Met Your Mother_ proposed the idea of "exit ramps" in a relationship at various intervals and many of these stages could reflect the process of building a fire: spark, kindling, tinder, small scraps of wood, increasingly larger logs.
  -->
+
+Relationships are also like falcons. You have to let the loved one fly free. On the foot of the hawk or falcon, there is a string that you can hold in your hands so the bird doesn't fly away. No matter how hard it tries, your fingers are stronger than its wings. But it will come to resent you. So you must let it fly free and trust that it will return.
+
+But someone reminded me that you shouldn't think of yourself as the falconer, but as another falcon: "The air is great, come fly."
